@@ -53,7 +53,7 @@ To deal with this, I relied heavily on:
 
     Asking mentors: When I got stuck  I discussed it with my mentors to avoid going in circles.
 
-    Going through QML + GCompris documentation: Especially helpful for understanding how binding, layouts, or components behaved internally.
+    Going through Gcompris + QMl documentation: Especially helpful for understanding how binding, layouts, or components behaved internally.
 
     debugging things using :
     Component.onCompleted: {
