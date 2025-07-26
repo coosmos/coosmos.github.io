@@ -16,7 +16,7 @@ timezone: Asia/Kolkata
 
 title: Ashutosh's Blog # the main title
 
-tagline: My Sok Journey # it will display as the subtitle
+tagline: My Sok/Gsoc Journey # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   My work and contributions.
