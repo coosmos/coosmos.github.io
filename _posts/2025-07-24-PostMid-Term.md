@@ -86,7 +86,7 @@ This was a much-needed reality check. While I’ve made progress in understandin
 
 With the mid-term evaluation complete and feedback taken into account, I’ve reassessed my remaining tasks and adjusted the schedule accordingly.
 
-✅ Completed So Far:
+✅ Progressed So Far:
 
     Learn Decimals dataset editor (Random + Fixed)
 
