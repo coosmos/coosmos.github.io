@@ -94,7 +94,7 @@ With the mid-term evaluation complete and feedback taken into account, I’ve re
 
     Learn Quantities
 
-These were part of the planned deliverables for Weeks 1–4, and despite some delays, they’re now complete and functional.
+These were part of the planned deliverables for Weeks 1–4, and despite some delays, these activites are functional.
 In the next phase (remaining ~30 days), I plan to do the following:
 <br>
 
